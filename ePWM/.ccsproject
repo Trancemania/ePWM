@@ -4,4 +4,5 @@
 	<deviceFamily value="C2000"/>
 	<isTargetManual value="false"/>
 	<origin value="/home/trancemania/ti/C2000Ware_3_03_00_00_Software/device_support/f2833x/examples/epwm_deadband"/>
+	<connection value="common/targetdb/connections/TIXDS100usb_Connection.xml"/>
 </projectOptions>
